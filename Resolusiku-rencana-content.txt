@@ -3,6 +3,7 @@ RENCANA CONTENT
 - Javascript
 *ES6
 *Frameworks
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
